@@ -199,7 +199,7 @@ To validate the entire detection-to-response chain without introducing live malw
 <!-- Replace the paths below with your uploaded screenshots inside an /assets folder -->
 
 - **Wazuh Discover (`rule.groups:cti` — Rule `100201` / MITRE `T1071`):**
-  `![Wazuh Discover CTI Alert](wazuh-discover-100201.png)`
+  `![Wazuh Discover CTI Alert](wazuh-discover-100200.png)`
 - **Shuffle Cloud Parallel Workflow Canvas:**
   `![Shuffle Cloud Canvas](shuffle-canvas.png)`
 - **Shuffle Execution History (`status: 204`):**
