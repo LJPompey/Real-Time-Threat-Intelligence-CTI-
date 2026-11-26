@@ -24,6 +24,8 @@
 
 This project implements an end-to-end **Cyber Threat Intelligence (CTI)** detection and **Security Orchestration, Automation, and Response (SOAR)** pipeline inside the **Project X** enterprise homelab. Rather than relying on manual log review or static indicators, the pipeline continuously correlates live Windows endpoint telemetry against an automated threat intelligence feed in **Wazuh SIEM**, maps matches to **MITRE ATT&CK**, and routes high-severity alerts through **Shuffle Cloud** directly to a SOC **Discord** channel in real time.
 
+[Read the Full Technical Breakdown on Medium](https://medium.com/@pompey.lamont01/from-raw-telemetry-to-automated-triage-building-a-zero-cost-enterprise-siem-cloud-soar-pipeline-d47e139d11f6?sharedUserId=pompey.lamont01)
+
 ---
 
 ## Environment & Architecture
